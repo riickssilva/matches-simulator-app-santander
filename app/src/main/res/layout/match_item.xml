@@ -40,6 +40,7 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             app:layout_constraintBottom_toBottomOf="@+id/ivHomeTeam"
             app:layout_constraintEnd_toStartOf="@+id/tvVersus"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toEndOf="@+id/ivHomeTeam"
             app:layout_constraintTop_toTopOf="@+id/ivHomeTeam"
             tools:text="99" />
